@@ -1,0 +1,11 @@
+.todoheader {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+.textandadd {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
